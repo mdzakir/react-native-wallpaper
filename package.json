@@ -1,0 +1,29 @@
+{
+  "name": "@mdzakir/react-native-wallpaper",
+  "version": "1.0.1",
+  "description": "React Native module to manage wallpapers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdzakir/react-native-wallpaper.git"
+  },
+  "author": "Muhammad Zakir",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "wallpaper",
+    "android",
+    "ios"
+  ],
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.64.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/mdzakir/react-native-wallpaper/issues"
+  },
+  "homepage": "https://github.com/mdzakir/react-native-wallpaper#readme"
+}
